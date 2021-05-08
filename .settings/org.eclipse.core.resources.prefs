@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/Main/Main.java=UTF-8
+encoding//src/business/concretes/AuthManager.java=UTF-8
+encoding//src/core/emailVerification/EmailManager.java=UTF-8
+encoding//src/dataAccess/concretes/InMemoryUserDao.java=UTF-8
+encoding//src/outlookAuth/OutlookAuthManager.java=UTF-8
